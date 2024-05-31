@@ -8,5 +8,3 @@ This project automates the process of fetching LeetCode problems, solving them, 
 2. Create and activate a virtual environment.
 3. Install the required packages using `pip install -r requirements.txt`.
 4. Run the script using `python sub.py`.
-
-## Directory Structure
